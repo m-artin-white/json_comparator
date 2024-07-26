@@ -23,7 +23,9 @@ Required libraries (listed in requirements.txt)
 
 ## Installation
 **Clone the repository:** git clone https://github.com/m-artin-white/json_comparator.git
+
 **Navigate to the project directory:** cd json_comparator
+
 **Install the required dependencies:** pip install -r requirements.txt
   
 ## License
