@@ -1,0 +1,32 @@
+{
+    "employees": [
+      {
+        "relationship": "employee", 
+        "name": "John Doe",
+        "gender": "Male",
+        "zip_code": "12345",
+        "date_of_birth": "01-15-2000",
+        "waived": false,
+        "salary": 50000
+      },
+      {
+        "relationship": "spouse",
+        "name": "Jane Doe",
+        "gender": "Female",
+        "zip_code": "12345",
+        "date_of_birth": "07-22-1982",
+        "waived": true,
+        "salary": null
+      },
+      {
+        "relationship": "child",
+        "name": "Jimmy Doe",
+        "gender": "Male",
+        "zip_code": "12345",
+        "date_of_birth": "12-04-2010",
+        "waived": false,
+        "salary": null
+      }
+    ],
+    "number_of_lives": 3
+}
